@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gamilam
+- 🌱 I’m currently learning frontend
+- 🌱 I’m try to code everyday
